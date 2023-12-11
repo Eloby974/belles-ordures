@@ -1,0 +1,9 @@
+.choixImg {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+
+.choixImg h3 {
+    position: absolute;
+}

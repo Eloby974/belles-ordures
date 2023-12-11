@@ -1,0 +1,13 @@
+.verres {
+    display: flex;
+    flex-direction: column;
+    padding-top: 5%;
+}
+
+
+.boutons {
+    display: flex;
+}
+
+
+

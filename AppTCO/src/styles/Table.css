@@ -1,0 +1,78 @@
+.table {
+    display: flex;
+    flex-direction: column;
+    background-color: #fff;
+    height: 650px;
+    width: 100%;
+}
+
+table {
+    width: 50%;
+    border-radius: 5px;
+    background: rgba(226, 226, 226, 0.8);
+    margin: 20px;
+}
+
+.choixDechets {
+    justify-content: center;
+    width: 100%;
+}
+
+.custom-slick-track {
+    height: 20%;
+}
+
+.slick-next:before, .slick-prev:before {
+    display: none !important;
+  }
+  a {
+    text-decoration: none;
+    color: #555843;
+  }
+  
+.header {
+  display: flex;
+  width: 100%;
+  position: relative;
+  top: -50px;
+  justify-content: center;
+  align-items: center;
+  font-size: 0.8rem;
+}
+
+.boutonSearch {
+  position: absolute;
+  justify-content: center;
+  top: -70px;
+  background-color: #75BE4D;
+  filter: drop-shadow(0px 4px 5px rgba(0, 0, 0, 0.25));
+  border-radius: 50px;
+  padding: 1rem;
+  margin-left: 2rem;
+}
+
+  .nomVille {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 11rem;
+    height: 2rem;
+    border-radius: 10px;
+    background: #FFF; 
+    margin-left: 1rem;
+  }
+
+  .nomVoie {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 11rem;
+    height: 2rem;
+    border-radius: 10px;
+    background: #FFF; 
+    margin-left: 3rem;
+  }
+
+ 
+  
+

@@ -1,0 +1,280 @@
+[
+    {
+      "nom_rue": "Lotissement Adagio",
+      "commune": "La Possession",
+      "calendrier": {
+        "dechets_vegetaux": [
+        "2023-12-02"
+      ],
+        "ordures_menageres": [
+        "2023-12-05"
+      ],
+        "collectes_selectives": [ 
+        "2023-12-07"
+      ],
+        "encombrants": [ 
+        "2023-12-10"
+      ]
+      }
+    },
+    {
+      "nom_rue": "Rue Saint Alme",
+      "commune": "La Possession",
+      "calendrier": {
+        "dechets_vegetaux": [
+        "2023-12-02",
+        "2023-12-16",
+        "2023-12-23"
+      ],
+        "ordures_menageres": [
+        "2023-12-05",
+        "2023-12-19",
+        "2024-01-02"
+      ],
+        "collectes_selectives": [ 
+        "2023-12-07",
+        "2023-12-17",
+        "2024-01-07"
+      ],
+        "encombrants": [ 
+        "2023-12-10",
+        "2023-12-17",
+        "2024-01-07"
+      ]
+      }
+    },
+    {
+      "nom_rue": "Allee du Soleil",
+      "commune": "La Possession",
+      "calendrier": {
+        "dechets_vegetaux": [
+        "2023-12-02",
+        "2023-12-16",
+        "2023-12-23"
+      ],
+        "ordures_menageres": [
+        "2023-12-05",
+        "2023-12-19",
+        "2024-01-02"
+      ],
+        "collectes_selectives": [ 
+        "2023-12-07",
+        "2023-12-17",
+        "2024-01-07"
+      ],
+        "encombrants": [ 
+        "2023-12-10",
+        "2023-12-17",
+        "2024-01-07"
+      ]
+      }
+    },
+    {
+      "nom_rue": "Chemin des Agapanthes",
+      "commune": "Saint-Leu",
+      "calendrier": {
+        "dechets_vegetaux": [
+        "2023-12-12",
+        "2023-12-19",
+        "2023-12-16"],
+        "ordures_menageres": [
+          "2023-12-05",
+        "2023-12-12",
+        "2023-12-19",
+        "2024-01-02"
+      ],
+        "collectes_selectives": [
+        "2023-12-07",
+        "2023-12-14",
+        "2023-12-28"
+      ],
+        "encombrants": [ 
+        "2023-12-10",
+        "2023-12-17",
+        "2024-01-07"
+      ]
+      }
+    },
+    {
+      "nom_rue": "Chemin Potier",
+      "commune": "Saint-Leu",
+      "calendrier": {
+        "dechets_vegetaux": [
+        "2023-12-12",
+        "2023-12-19",
+        "2023-12-16"],
+        "ordures_menageres": [
+          "2023-12-05",
+        "2023-12-12",
+        "2023-12-19",
+        "2024-01-02"
+      ],
+        "collectes_selectives": [
+        "2023-12-07",
+        "2023-12-14",
+        "2023-12-28"
+      ],
+        "encombrants": [ 
+        "2023-12-10",
+        "2023-12-17",
+        "2024-01-07"
+      ]
+      }
+    },
+    {
+      "nom_rue": "Avenue du 19 Mars 1946",
+      "commune": "Le Port",
+      "calendrier": {
+        "dechets_vegetaux": [
+        "2023-12-02",
+        "2023-12-09"
+      ],
+        "ordures_menageres": [
+        "2023-12-05",
+        "2023-12-12"
+      ],
+        "collectes_selectives": [ 
+        "2023-12-07",
+        "2023-12-14"
+      ],
+        "encombrants": [ 
+        "2023-12-10",
+        "2023-12-17"
+      ]
+      }
+    },
+    {
+      "nom_rue": "Chemin Tan Rouge",
+      "commune": "Le Port",
+      "calendrier": {
+        "dechets_vegetaux": [
+        "2023-12-02",
+        "2023-12-09"
+      ],
+        "ordures_menageres": [
+        "2023-12-05",
+        "2023-12-12"
+      ],
+        "collectes_selectives": [ 
+        "2023-12-07",
+        "2023-12-14"
+      ],
+        "encombrants": [ 
+        "2023-12-10",
+        "2023-12-17"
+      ]
+      }
+    },
+    {
+      "nom_rue": "Impasse Adrien",
+      "commune": "Saint-Paul",
+      "calendrier": {
+        "dechets_vegetaux": [
+        "2023-12-02",
+        "2023-12-09",
+        "2023-12-16",
+        "2023-12-23"
+      ],
+        "ordures_menageres": [
+        "2023-12-05",
+        "2023-12-12"
+      ],
+        "collectes_selectives": [ 
+        "2023-12-07",
+        "2023-12-14",
+        "2023-12-21",
+        "2023-12-28"
+      ],
+        "encombrants": [ 
+        "2023-12-10",
+        "2023-12-17",
+        "2023-12-24",
+        "2023-12-31"
+      ]
+      }
+    },
+    {
+      "nom_rue": "Chemin Lebreton",
+      "commune": "Saint-Paul",
+      "calendrier": {
+        "dechets_vegetaux": [
+        "2023-12-02",
+        "2023-12-09",
+        "2023-12-16",
+        "2023-12-23"
+      ],
+        "ordures_menageres": [
+        "2023-12-05",
+        "2023-12-12"
+      ],
+        "collectes_selectives": [ 
+        "2023-12-07",
+        "2023-12-14",
+        "2023-12-21",
+        "2023-12-28"
+      ],
+        "encombrants": [ 
+        "2023-12-10",
+        "2023-12-17",
+        "2023-12-24",
+        "2023-12-31"
+      ]
+      }
+    },
+    {
+      "nom_rue": "Chemin des Bambous",
+      "commune": "Trois Bassins",
+      "calendrier": {
+        "dechets_vegetaux": [
+        "2023-12-02",
+        "2023-12-09",
+        "2023-12-16"
+      ],
+        "ordures_menageres": [
+        "2023-12-05",
+        "2023-12-12",
+        "2023-12-19",
+        "2023-12-26"
+      ],
+        "collectes_selectives": [ 
+        "2023-12-07",
+        "2023-12-14",
+        "2023-12-21",
+        "2023-12-28"
+      ],
+        "encombrants": [ 
+        "2023-12-10",
+        "2023-12-17",
+        "2023-12-24"
+      ]
+      }
+    },
+    {
+      "nom_rue": "Rue Gabriel Mareuil",
+      "commune": "Trois Bassins",
+      "calendrier": {
+        "dechets_vegetaux": [
+        "2023-12-02",
+        "2023-12-09",
+        "2023-12-16"
+      ],
+        "ordures_menageres": [
+        "2023-12-05",
+        "2023-12-12",
+        "2023-12-19",
+        "2023-12-26"
+      ],
+        "collectes_selectives": [ 
+        "2023-12-07",
+        "2023-12-14",
+        "2023-12-21",
+        "2023-12-28"
+      ],
+        "encombrants": [ 
+        "2023-12-10",
+        "2023-12-17",
+        "2023-12-24"
+      ]
+      }
+    }
+  ]

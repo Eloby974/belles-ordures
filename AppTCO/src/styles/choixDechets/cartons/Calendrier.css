@@ -1,0 +1,18 @@
+.calendrierCartons {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    border-radius: 10px;
+    background: #F2F165;
+    margin: 3%;
+    padding: 3%;
+}
+
+.imgBenne {
+    display: flex;
+}
+
+.calendrierCartons p {
+    text-align: start;
+}

@@ -1,0 +1,24 @@
+.calendrierVerre {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    border-radius: 10px;
+    background: #F1F1F1;
+    box-shadow: 4px 4px 4px 0px rgba(0, 0, 0, 0.25);    
+    margin: 1rem;
+    padding: 1rem 1rem 1rem 1rem;
+}
+
+.imgBenne {
+    display: flex;
+}
+
+h2 {
+    margin: 0;
+}
+
+.calendrier {
+    border-radius: 5px;
+    background: rgba(255, 255, 255, 0.80);
+}

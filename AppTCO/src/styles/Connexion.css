@@ -1,0 +1,142 @@
+#logo {
+  position: absolute;
+  bottom: 20.8px;
+  left : 27px;
+}
+
+#titreApp {
+  position: absolute;
+  top: -10px;
+  left: 31px;
+  display: flex;
+  width: 72px;
+  height: 56px;
+  color: #FFF;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
+#recyclage {
+  position: absolute;
+  top: 30px;
+  left: 191px;
+
+}
+
+
+.connexion {
+    width: 796px;
+    height: 796px;
+    border-radius: 796px;
+    background: #fff;
+    display: flex;
+    flex-direction: column;
+    margin-left: 30%;
+    box-shadow: 0px 5px 2px 6px rgba(0, 0, 0, 0.25) inset;
+}
+
+.villeSelect,
+.voieSelect {
+  margin-top: 35%;
+  margin-left: 4%;
+}
+
+.voieSelect {
+    margin-top: 60px;
+    margin-left: 6%;
+
+}
+
+.custom-select-ville {
+    width: 280px;
+    height: 40px;
+    padding: 10px;
+    margin-left: 20px;
+}
+
+/* Applique le style au conteneur du menu et du contrôle */
+.css-13cymwt-control {
+  border-radius: 20px;
+  background-color: #F5EEC8;
+}
+
+/* Applique le style aux options individuelles du menu */
+.css-1okebmr-indicatorSeparator {
+  background-color: #F5EEC8;
+}
+
+/* Applique le style aux options du menu au survol */
+.css-26l3qy-menu .css-1g34o1v-option:hover {
+  background-color: #FFD700; /* Exemple : couleur de fond jaune au survol */
+}
+
+
+.custom-select-voie {
+    width: 280px;
+    height: 40px;
+    padding: 10px;
+    cursor: text; 
+}
+
+/*bouton*/
+.showTableButton{
+  display: flex;
+  margin-top: 10%;
+  margin-left: 25%;
+  border-radius: 50px;
+}
+
+.boutonValider:hover {
+  cursor: pointer;
+}
+
+label {
+  margin-left: 3rem;
+}
+
+.boutonValider {
+  border-radius: 50%;
+  border-width: 0px;
+  background-color: #75BE4D;
+  color: #555843;
+  filter: drop-shadow(0px 4px 5px rgba(0, 0, 0, 0.25));
+  width: 3rem;
+  height: 3rem;
+}
+
+
+/*affiche la selection*/
+.afficheSelection{
+  display: flex;
+  flex-direction: row;
+}
+
+.selectedVilleDisplay,
+.selectedVoieDisplay {
+  background-color: #D0D4CA;
+  color: #084C0E;
+  width: 120px;
+  border-radius: 10px;
+  height: 30px;
+  justify-content: center;
+  display: flex;
+  margin-top: 10%;
+}
+
+.selectedVilleDisplay {
+  margin-left: 5%;
+}
+
+.selectedVoieDisplay {
+  width: 150px;
+  margin-left: 1.5%;
+
+}
+
+p {
+  display: flex;
+  align-items: center;
+}
+

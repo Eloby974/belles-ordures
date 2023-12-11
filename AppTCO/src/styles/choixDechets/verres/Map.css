@@ -1,0 +1,16 @@
+.mapVerres {
+    display: flex;
+    flex-direction: column;
+    border-radius: 10px;
+    background: #F1F1F1;
+    box-shadow: 4px 4px 4px 0px rgba(0, 0, 0, 0.25);    
+    padding: 1rem 0 0rem 0;
+    margin: 1rem;
+    line-height: 1rem;
+}
+
+.infoDecheterie {
+    flex-direction: column;
+    text-align: center;
+    padding-left: 1rem;
+}
